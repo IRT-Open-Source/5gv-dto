@@ -1,0 +1,444 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7",
+        "signature": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed",
+        "signature": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf",
+        "signature": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
+        "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
+      },
+      "../src/aggregator/impl/config-item.dto.ts": {
+        "version": "376bad14b1dd4065f9f8cd8a16e5a78a423432d81f6579b4ee68f25b1eb77368",
+        "signature": "214fbc35836687686d696c5a789118b99406932a724e671684003eaa4f19dec8"
+      },
+      "../src/aggregator/impl/config-update-publication.dto.ts": {
+        "version": "b81fe42563e06731e868dd1a926d734f7dda2b3766627ba2592be5f2b3880e29",
+        "signature": "39b4165ac6d2844232a0fd98608d5a7119f3d07eb272f562546527220f078516"
+      },
+      "../src/aggregator/impl/config.dto.ts": {
+        "version": "18b6f86e2466caeac40e2a7d57ba471bd2a47575c77b6f9fe99136719f4cd002",
+        "signature": "a870e1ba55fabfd77484892576cf6c9989fd692199a2e1e7aebaf153f3ea7810"
+      },
+      "../src/aggregator/aggregator.dto.ts": {
+        "version": "acae215deb4efe162cb6f476d5f7374efe846652d5c1d8c10acc5048aa0b0b41",
+        "signature": "090ef3ab626411c9be7dc789cb3845f891b9f432270984bba1206a0f47507421"
+      },
+      "../src/ard-core/impl/reference.dto.ts": {
+        "version": "936c41a7b44f9e2c332283c707a2c0025e91a0a331b03bfdf170b3d08ccabf48",
+        "signature": "a8c88ab04e1d4200a8fa476f873ca83274e2827d208431e01665360f59487a4f"
+      },
+      "../src/ard-core/impl/binary/binary-reference.dto.ts": {
+        "version": "8309ce17c48c1cf87d1be083550045b1d243c9f735516f0b59989f9674fd94de",
+        "signature": "09db444f87e90f1cf15a7e29ec7fe84150013d4046f03c531d68ab731b8357df"
+      },
+      "../src/ard-core/impl/binary/binary.dto.ts": {
+        "version": "615421aa45f8744effc588cb6adc3e49e550b718fec29021ef21a6dd3fcf803e",
+        "signature": "27c33bbf7c5707c832aa3b97b3a8df8237850a563203be67a6bdb8603362fdf4"
+      },
+      "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts": {
+        "version": "cfe2113f8758672022b8908becd799d239eb466140942968f8fbaaff158e2306",
+        "signature": "272096aeffc583a3e9f3138b4af79a644591cccfad4513214fd673bedf34dc32"
+      },
+      "../src/ard-core/impl/set.dto.ts": {
+        "version": "d9a47fe0be020af8cc8ae0af4d797b3ee912857dcb4119761e4d048da404bac2",
+        "signature": "38f8ff496340cc48a4eb42e183e56dec6c3d79e6a3db8f04516abd0598515460"
+      },
+      "../src/ard-core/impl/binary-set/binary-set.dto.ts": {
+        "version": "5faae44a8b12391164f5254ca2b05b9e26edb25104ef0a1893ec639f9451fc37",
+        "signature": "eb8a8ad7466071d3c871094b5ac1442c89baaca21b276072a817fd9caa3fb5b5"
+      },
+      "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts": {
+        "version": "f5ec7ed866394552b1ecc5cf075d46f0b03c3f05a7f98382ff967df4009d2492",
+        "signature": "cda346e104845440a6b35624bdae68dd2fa369be53351999436650032daa501f"
+      },
+      "../src/ard-core/impl/item/item-reference.dto.ts": {
+        "version": "3d47765701b57e68de12475ec2cbc023c2f3b4d390169dcb09361a9d26b28b76",
+        "signature": "fb3d965427ae27e38cb523e383937e2e3705bc5aed043db86fc6ce4a90f91269"
+      },
+      "../src/ard-core/impl/item/item.dto.ts": {
+        "version": "5a79ceb5e8c2f57673cf777f6596519513206c04df86eec467fd58c21aa395ba",
+        "signature": "c171abe78c8e3863766eaf3d6581fc4730a1cee5c1fd832d366bcba555e19826"
+      },
+      "../src/ard-core/impl/publication/publication-reference.dto.ts": {
+        "version": "4a70455e75c858a74acc8110b6411858dd75f35f73e179942af0445c576cc317",
+        "signature": "8fb6792d0329285e146d603f3be62d95ff2cf1f7716ccd22123e40e1c64f1384"
+      },
+      "../src/ard-core/impl/publication/publication.dto.ts": {
+        "version": "f70deabe6f0fd52eddfec2e9249d3d71111a004d8f050d444e3bb9590e49fe15",
+        "signature": "334e36345005e2e744bd0219e581521e818149e27ce35078aa2a5a8f149e0fac"
+      },
+      "../src/ard-core/impl/publication-set/publication-set.dto.ts": {
+        "version": "ca54a1bacde19e5791f6124920b19a5d869c598d04626714a9f4ab71eaf3716d",
+        "signature": "470456d405ecbebdecff5ed337ca33fa26746c54c631f896e7956294aee561be"
+      },
+      "../src/ard-core/ard-core.dto.ts": {
+        "version": "343452e9523973e056ab4134d4936030497eb5e116b778f06da0b895f41224f8",
+        "signature": "89442dbf8fbf7890d4a49e67e2c90986e38745f9d3d743adceb866d22a1c340c"
+      },
+      "../src/ard-mediathek/impl/teaser.dto.ts": {
+        "version": "2e1be16b83a8dc48df6fc659a0102db1c213749913a3e26e25d14b2238f011b7",
+        "signature": "0d8f70a2123229739c64d441059ab2c3ad523dac96dd471665a7bbc8bc103ed1"
+      },
+      "../src/ard-mediathek/impl/compilation.dto.ts": {
+        "version": "19b0043abf7a45bf1956e267fa50234e50c27160a51a07ee0109de6eba1891e1",
+        "signature": "a3b1271ee24fa2a11c0ad144a113d0dbf2618209944e5d3d563f016e446f53b2"
+      },
+      "../src/ard-mediathek/impl/home.dto.ts": {
+        "version": "428b5211ebb522ab96e525606b3103628f6c60811cb6ef0ddedeab6c711fce60",
+        "signature": "a9c391984c2e6b6281ab086309868e18ce56d07b0241c2c30c371ae870643e8d"
+      },
+      "../src/ard-mediathek/impl/player.dto.ts": {
+        "version": "2e960753ab6e1b8bb60ec4edd0caa26dcd224b5ac8a2425b63102bdc637881ce",
+        "signature": "df6371afb7856c4b3378622666c611f182516bcf46e45b753be92c7ff491c5a8"
+      },
+      "../src/ard-mediathek/impl/item.dto.ts": {
+        "version": "ba4f2650a83cdab35d50188e3e3d82049a24aafabd4d98729ae29bd59defc5e4",
+        "signature": "941eb9507689207574ab7371d0c4ea0adabaea5ee6ce4575fc177255b48176be"
+      },
+      "../src/ard-mediathek/ard-mediathek.dto.ts": {
+        "version": "86b786380860cab833ee318a20d733721d90b7fe0bd00f1878936577001b5585",
+        "signature": "a6734ee25721c10c4e17cd9238de12722e4229bdb3cd6ddcd30fc6964e31ed37"
+      },
+      "../src/cache-monitor/impl/cache-state-update.dto.ts": {
+        "version": "95b2f7693bd1b36771ec900f4a2fe4e16e430469e754c7c119b200f2a630e607",
+        "signature": "a7d87b1adc2003f731c399b6dcf2be5549394d4fd41e39e5d21b396340413d26"
+      },
+      "../src/cache-monitor/cache-monitor.dto.ts": {
+        "version": "d167f42dcdc2cfc578428aab91fd4ec98bf292d555c7a9ddbf2eaa5b87a00dd0",
+        "signature": "d3b0b4780a7ade807a565ecded6ce8c197b3775141fd71547e50a8eb99b3fc45"
+      },
+      "../src/5gv-dto.ts": {
+        "version": "78ebc0b3387dfa83f5e8e8cfba1efbf06c869071b00a30087692e1516c7d6691",
+        "signature": "78ebc0b3387dfa83f5e8e8cfba1efbf06c869071b00a30087692e1516c7d6691"
+      }
+    },
+    "options": {
+      "module": 1,
+      "declaration": true,
+      "removeComments": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "target": 4,
+      "sourceMap": true,
+      "outDir": "./",
+      "baseUrl": "..",
+      "incremental": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/aggregator/impl/config.dto.ts": [
+        "../src/aggregator/impl/config-item.dto.ts"
+      ],
+      "../src/aggregator/aggregator.dto.ts": [
+        "../src/aggregator/impl/config-item.dto.ts",
+        "../src/aggregator/impl/config-update-publication.dto.ts",
+        "../src/aggregator/impl/config.dto.ts"
+      ],
+      "../src/ard-core/impl/binary/binary-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary/binary.dto.ts": [
+        "../src/ard-core/impl/binary/binary-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/set.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary-set/binary-set.dto.ts": [
+        "../src/ard-core/impl/binary/binary-reference.dto.ts",
+        "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/item/item-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/item/item.dto.ts": [
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+        "../src/ard-core/impl/item/item-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication/publication-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication/publication.dto.ts": [
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/binary/binary-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication-set/publication-set.dto.ts": [
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-core/ard-core.dto.ts": [
+        "../src/ard-core/impl/binary/binary-reference.dto.ts",
+        "../src/ard-core/impl/binary/binary.dto.ts",
+        "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts",
+        "../src/ard-core/impl/binary-set/binary-set.dto.ts",
+        "../src/ard-core/impl/item/item.dto.ts",
+        "../src/ard-core/impl/item/item-reference.dto.ts",
+        "../src/ard-core/impl/publication/publication.dto.ts",
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/publication-set/publication-set.dto.ts",
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+        "../src/ard-core/impl/reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-mediathek/impl/compilation.dto.ts": [
+        "../src/ard-mediathek/impl/teaser.dto.ts"
+      ],
+      "../src/ard-mediathek/impl/item.dto.ts": [
+        "../src/ard-mediathek/impl/player.dto.ts",
+        "../src/ard-mediathek/impl/compilation.dto.ts"
+      ],
+      "../src/ard-mediathek/ard-mediathek.dto.ts": [
+        "../src/ard-mediathek/impl/compilation.dto.ts",
+        "../src/ard-mediathek/impl/home.dto.ts",
+        "../src/ard-mediathek/impl/item.dto.ts",
+        "../src/ard-mediathek/impl/player.dto.ts",
+        "../src/ard-mediathek/impl/teaser.dto.ts"
+      ],
+      "../src/cache-monitor/cache-monitor.dto.ts": [
+        "../src/cache-monitor/impl/cache-state-update.dto.ts"
+      ],
+      "../src/5gv-dto.ts": [
+        "../src/aggregator/aggregator.dto.ts",
+        "../src/ard-core/ard-core.dto.ts",
+        "../src/ard-mediathek/ard-mediathek.dto.ts",
+        "../src/cache-monitor/cache-monitor.dto.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/aggregator/impl/config.dto.ts": [
+        "../src/aggregator/impl/config-item.dto.ts"
+      ],
+      "../src/aggregator/aggregator.dto.ts": [
+        "../src/aggregator/impl/config-item.dto.ts",
+        "../src/aggregator/impl/config-update-publication.dto.ts",
+        "../src/aggregator/impl/config.dto.ts"
+      ],
+      "../src/ard-core/impl/binary/binary-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary/binary.dto.ts": [
+        "../src/ard-core/impl/binary/binary-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/set.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/binary-set/binary-set.dto.ts": [
+        "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts",
+        "../src/ard-core/impl/binary/binary-reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/item/item-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/item/item.dto.ts": [
+        "../src/ard-core/impl/item/item-reference.dto.ts",
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication/publication-reference.dto.ts": [
+        "../src/ard-core/impl/reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication/publication.dto.ts": [
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/binary/binary-reference.dto.ts"
+      ],
+      "../src/ard-core/impl/publication-set/publication-set.dto.ts": [
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-core/ard-core.dto.ts": [
+        "../src/ard-core/impl/binary/binary-reference.dto.ts",
+        "../src/ard-core/impl/binary/binary.dto.ts",
+        "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts",
+        "../src/ard-core/impl/binary-set/binary-set.dto.ts",
+        "../src/ard-core/impl/item/item.dto.ts",
+        "../src/ard-core/impl/item/item-reference.dto.ts",
+        "../src/ard-core/impl/publication/publication.dto.ts",
+        "../src/ard-core/impl/publication/publication-reference.dto.ts",
+        "../src/ard-core/impl/publication-set/publication-set.dto.ts",
+        "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+        "../src/ard-core/impl/reference.dto.ts",
+        "../src/ard-core/impl/set.dto.ts"
+      ],
+      "../src/ard-mediathek/impl/compilation.dto.ts": [
+        "../src/ard-mediathek/impl/teaser.dto.ts"
+      ],
+      "../src/ard-mediathek/impl/item.dto.ts": [
+        "../src/ard-mediathek/impl/player.dto.ts",
+        "../src/ard-mediathek/impl/compilation.dto.ts"
+      ],
+      "../src/ard-mediathek/ard-mediathek.dto.ts": [
+        "../src/ard-mediathek/impl/compilation.dto.ts",
+        "../src/ard-mediathek/impl/home.dto.ts",
+        "../src/ard-mediathek/impl/item.dto.ts",
+        "../src/ard-mediathek/impl/player.dto.ts",
+        "../src/ard-mediathek/impl/teaser.dto.ts"
+      ],
+      "../src/cache-monitor/cache-monitor.dto.ts": [
+        "../src/cache-monitor/impl/cache-state-update.dto.ts"
+      ],
+      "../src/5gv-dto.ts": [
+        "../src/aggregator/aggregator.dto.ts",
+        "../src/ard-core/ard-core.dto.ts",
+        "../src/ard-mediathek/ard-mediathek.dto.ts",
+        "../src/cache-monitor/cache-monitor.dto.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../src/aggregator/impl/config-item.dto.ts",
+      "../src/aggregator/impl/config-update-publication.dto.ts",
+      "../src/aggregator/impl/config.dto.ts",
+      "../src/aggregator/aggregator.dto.ts",
+      "../src/ard-core/impl/reference.dto.ts",
+      "../src/ard-core/impl/binary/binary-reference.dto.ts",
+      "../src/ard-core/impl/binary/binary.dto.ts",
+      "../src/ard-core/impl/binary-set/binary-set-reference.dto.ts",
+      "../src/ard-core/impl/set.dto.ts",
+      "../src/ard-core/impl/binary-set/binary-set.dto.ts",
+      "../src/ard-core/impl/publication-set/publication-set-reference.dto.ts",
+      "../src/ard-core/impl/item/item-reference.dto.ts",
+      "../src/ard-core/impl/item/item.dto.ts",
+      "../src/ard-core/impl/publication/publication-reference.dto.ts",
+      "../src/ard-core/impl/publication/publication.dto.ts",
+      "../src/ard-core/impl/publication-set/publication-set.dto.ts",
+      "../src/ard-core/ard-core.dto.ts",
+      "../src/ard-mediathek/impl/teaser.dto.ts",
+      "../src/ard-mediathek/impl/compilation.dto.ts",
+      "../src/ard-mediathek/impl/home.dto.ts",
+      "../src/ard-mediathek/impl/player.dto.ts",
+      "../src/ard-mediathek/impl/item.dto.ts",
+      "../src/ard-mediathek/ard-mediathek.dto.ts",
+      "../src/cache-monitor/impl/cache-state-update.dto.ts",
+      "../src/cache-monitor/cache-monitor.dto.ts",
+      "../src/5gv-dto.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../../.nvm/versions/node/v12.13.1/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts"
+    ]
+  },
+  "version": "3.8.3"
+}

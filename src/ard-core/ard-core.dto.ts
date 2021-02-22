@@ -1,0 +1,12 @@
+export { BinaryReferenceDto } from './impl/binary/binary-reference.dto';
+export { BinaryDto } from './impl/binary/binary.dto';
+export { BinarySetReferenceDto } from './impl/binary-set/binary-set-reference.dto';
+export { BinarySetDto } from './impl/binary-set/binary-set.dto';
+export { ItemDto } from './impl/item/item.dto';
+export { ItemReferenceDto } from './impl/item/item-reference.dto';
+export { PublicationDto } from './impl/publication/publication.dto';
+export { PublicationReferenceDto } from './impl/publication/publication-reference.dto';
+export { PublicationSetDto } from './impl/publication-set/publication-set.dto';
+export { PublicationSetReferenceDto } from './impl/publication-set/publication-set-reference.dto';
+export { ReferenceDto } from './impl/reference.dto';
+export { SetDto } from './impl/set.dto';
