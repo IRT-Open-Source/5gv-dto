@@ -23,7 +23,7 @@ $ npm i -S git+ssh://git@gitlab.irt.de/5g-victori/dto.git
 
 **Build**:
 
-**Note**: _This library is used by services which are build and run by the `up.sh` script of the [Platform](https://gitlab.irt.de/5g-victori/platform) project. Typically you would only need to run the following commands, if you need to make changes to this project._
+**Note**: _This library is used by services which are build and run by the `up.sh` script of the [Platform](../../../5gv-platform) project. Typically you would only need to run the following commands, if you need to make changes to this project._
 
 Clone this repository, change into its root directory and run following command to install its dependencies:
 
